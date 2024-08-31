@@ -14,3 +14,4 @@ class Producto(BaseModel):
 app = FastAPI()
 
 print("Hackaton 1")
+print("Hola mundo Celestial")
