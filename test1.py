@@ -12,3 +12,5 @@ class Producto(BaseModel):
     stock: int
     
 app = FastAPI()
+
+print("Hackaton 1")
